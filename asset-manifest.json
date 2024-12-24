@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/xMasTree/static/css/main.f855e6bc.css",
-    "main.js": "/xMasTree/static/js/main.057d2a41.js",
-    "static/media/logo.svg": "/xMasTree/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.js": "/xMasTree/static/js/main.7f309017.js",
     "index.html": "/xMasTree/index.html",
     "main.f855e6bc.css.map": "/xMasTree/static/css/main.f855e6bc.css.map",
-    "main.057d2a41.js.map": "/xMasTree/static/js/main.057d2a41.js.map"
+    "main.7f309017.js.map": "/xMasTree/static/js/main.7f309017.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.057d2a41.js"
+    "static/js/main.7f309017.js"
   ]
 }
