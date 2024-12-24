@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/xMasTree/static/css/main.f81545ca.css",
+    "main.css": "/xMasTree/static/css/main.a06c987e.css",
     "main.js": "/xMasTree/static/js/main.fc4a649c.js",
     "index.html": "/xMasTree/index.html",
-    "main.f81545ca.css.map": "/xMasTree/static/css/main.f81545ca.css.map",
+    "main.a06c987e.css.map": "/xMasTree/static/css/main.a06c987e.css.map",
     "main.fc4a649c.js.map": "/xMasTree/static/js/main.fc4a649c.js.map"
   },
   "entrypoints": [
-    "static/css/main.f81545ca.css",
+    "static/css/main.a06c987e.css",
     "static/js/main.fc4a649c.js"
   ]
 }
